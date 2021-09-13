@@ -1,0 +1,29 @@
+baseURL: 'http://neal.in/'
+languageCode: 'en-us'
+title: ''
+theme: "PaperMod"
+
+params:
+    profileMode:
+        enabled: true
+        title: "Richard Neal" # optional default will be site title
+        subtitle: "Building through code and community"
+        imageUrl: "image.jpeg" # optional
+        imageTitle: "Richard Neal"
+        # imageWidth: 120 # custom size
+        # imageHeight: 120 # custom size
+        # buttons:
+        #     - name: Archive
+        #       url: "/archive"
+        #     - name: Github
+        #       url: "https://github.com/"
+
+    socialIcons:
+        - name: email
+          url: "mailto:richard@neal.in"
+        - name: twitter
+          url: "https://twitter.com/rwn231"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/rineal/"
+        - name: github
+          url: "https://github.com/richardneal"
