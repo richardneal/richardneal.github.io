@@ -7,7 +7,7 @@ params:
     profileMode:
         enabled: true
         title: "Richard Neal" # optional default will be site title
-        subtitle: "Building through code and community"
+        subtitle: "Building through community and code"
         imageUrl: "image.jpeg" # optional
         imageTitle: "Richard Neal"
         # imageWidth: 120 # custom size
