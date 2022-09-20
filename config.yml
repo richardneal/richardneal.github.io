@@ -22,7 +22,7 @@ params:
         - name: email
           url: "mailto:richard@neal.in"
         - name: twitter
-          url: "https://twitter.com/rwn231"
+          url: "https://twitter.com/selesneal"
         - name: linkedin
           url: "https://www.linkedin.com/in/rineal/"
         - name: github
